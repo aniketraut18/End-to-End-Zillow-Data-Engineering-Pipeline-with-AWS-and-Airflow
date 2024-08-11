@@ -1,0 +1,2 @@
+# End-to-End-Zillow-Data-Engineering-Pipeline-with-AWS-and-Airflow
+Data Engineering pipeline that automates ETL of Zillow real estate data using AWS (IAM, S3, Lambda, Redshift) and Apache Airflow. This workflow efficiently processes and stores data for analysis. Additionally, I utilized Amazon QuickSight to create interactive dashboards and visualizations, transforming raw data into actionable insights.
